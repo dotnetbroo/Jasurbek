@@ -22,9 +22,8 @@
  <!--<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   
   
-  
  
-  ![Snake animation](https://github.com/dotnetbroo/dotnetbroo/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
 
